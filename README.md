@@ -4,12 +4,15 @@ In this app I have used Rest API of newsApi.org which gives us the latest news d
 You can also share the articles from this app to different platforms like whatspp, facebook etc.
 
 #logo
+
 ![logoakhbar](https://user-images.githubusercontent.com/66347715/125183519-b521cc80-e234-11eb-9691-64ba84e42ce7.png)
 
 #categoty screen
+
 ![category screen](https://user-images.githubusercontent.com/66347715/125183474-755ae500-e234-11eb-940e-2e93229ccebb.jpg)
 
 #different fetched news
+
 ![diffnews](https://user-images.githubusercontent.com/66347715/125183494-8ad00f00-e234-11eb-9e53-1c9d9613e2ff.jpg)
 
 #description of single news
